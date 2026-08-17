@@ -1,0 +1,57 @@
+{
+    "name": "changeNewsStatus",
+    "start": 1786493791246,
+    "stop": 1786493806537,
+    "stage": "finished",
+    "description": "TK-22. Изменение статуса новости",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "166d11d3-503a-4c8e-9397-76e164076225",
+    "historyId": "84239bae77d32a3729777fb564051ab5",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.EditingNewsTest.changeNewsStatus",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.EditingNewsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "changeNewsStatus"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.EditingNewsTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(1016)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "severity",
+            "value": "critical"
+        }
+    ]
+}

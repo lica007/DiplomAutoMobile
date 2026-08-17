@@ -1,0 +1,57 @@
+{
+    "name": "cancelNewsCreation",
+    "start": 1786494150187,
+    "stop": 1786494171981,
+    "stage": "finished",
+    "description": "TK-16. Отмена создания новости",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "f937879d-0b41-4ac5-983d-1f63f5161bef",
+    "historyId": "bc15b99ea59832dc132629b33e994035",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.CreateNewsTests.cancelNewsCreation",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.CreateNewsTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "cancelNewsCreation"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.CreateNewsTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(1046)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "severity",
+            "value": "normal"
+        }
+    ]
+}

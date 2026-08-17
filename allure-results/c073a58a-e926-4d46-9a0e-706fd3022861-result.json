@@ -1,0 +1,57 @@
+{
+    "name": "authEmptyFieldLogin",
+    "start": 1786494370457,
+    "stop": 1786494376418,
+    "stage": "finished",
+    "description": "Авторизация с пустым полем логина",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "c073a58a-e926-4d46-9a0e-706fd3022861",
+    "historyId": "59698a0f7c9965cadf7d3fcef31160c8",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests.authEmptyFieldLogin",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "authEmptyFieldLogin"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(1056)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "severity",
+            "value": "critical"
+        }
+    ]
+}

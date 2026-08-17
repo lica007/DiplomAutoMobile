@@ -1,0 +1,57 @@
+{
+    "name": "successfulNewsEditing",
+    "start": 1786493776507,
+    "stop": 1786493791179,
+    "stage": "finished",
+    "description": "ТК-23. Успешное редактирование новости",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "9bad8a83-4e51-469d-8d2c-f37116f74316",
+    "historyId": "d7e59d9a123543a5fd2f0cf4c5fee962",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.EditingNewsTest.successfulNewsEditing",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.EditingNewsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "successfulNewsEditing"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.EditingNewsTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(1016)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "severity",
+            "value": "critical"
+        }
+    ]
+}

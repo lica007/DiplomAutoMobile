@@ -1,0 +1,57 @@
+{
+    "name": "cancelFilter",
+    "start": 1786493227929,
+    "stop": 1786493237021,
+    "stage": "finished",
+    "description": "TK-32. Отмена фильтрации",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "fc6bdd23-e9ce-44f7-b27a-79571f7579ba",
+    "historyId": "d800e1c96f7d6c7fc8fdd43707c1a864",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.FilterNewsTests.cancelFilter",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.FilterNewsTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "cancelFilter"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.FilterNewsTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(1006)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "severity",
+            "value": "normal"
+        }
+    ]
+}

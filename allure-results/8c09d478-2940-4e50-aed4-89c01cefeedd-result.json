@@ -1,0 +1,57 @@
+{
+    "name": "verifyNewsDataAfterCreation",
+    "start": 1786494198677,
+    "stop": 1786494212977,
+    "stage": "finished",
+    "description": "TK-18. Сохранение данных после создания",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "8c09d478-2940-4e50-aed4-89c01cefeedd",
+    "historyId": "7beb11d29442f803125359691d70eeb6",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.CreateNewsTests.verifyNewsDataAfterCreation",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.CreateNewsTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "verifyNewsDataAfterCreation"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.CreateNewsTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(1046)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "severity",
+            "value": "critical"
+        }
+    ]
+}

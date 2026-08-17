@@ -1,0 +1,57 @@
+{
+    "name": "successfulNewsCreation",
+    "start": 1786494183792,
+    "stop": 1786494198627,
+    "stage": "finished",
+    "description": "ТК-12. Успешное создание новости",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "add8b3f9-7af6-46be-a248-330c4fad451b",
+    "historyId": "8b5dbf3cf35286a5001e3f12af1628c9",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.CreateNewsTests.successfulNewsCreation",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.CreateNewsTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "successfulNewsCreation"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.CreateNewsTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(1046)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "severity",
+            "value": "critical"
+        }
+    ]
+}

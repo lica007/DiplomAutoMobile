@@ -1,0 +1,57 @@
+{
+    "name": "filterNewsByAllParams",
+    "start": 1786493179070,
+    "stop": 1786493192075,
+    "stage": "finished",
+    "description": "TK-34. Фильтрация по категории и диапазону дат",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "212688f8-26e2-4a8e-bde5-e08a78dee11e",
+    "historyId": "4769a4c7db5d591209652d9800abff2",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.FilterNewsTests.filterNewsByAllParams",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.FilterNewsTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "filterNewsByAllParams"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.FilterNewsTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(1006)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "severity",
+            "value": "critical"
+        }
+    ]
+}

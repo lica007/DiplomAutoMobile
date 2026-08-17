@@ -1,0 +1,57 @@
+{
+    "name": "filterNewsByCategoryOnly",
+    "start": 1786493213435,
+    "stop": 1786493227766,
+    "stage": "finished",
+    "description": "TK-29. Фильтрация только по категории",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "bf1acdde-9351-4087-88d6-28b5c8e4c569",
+    "historyId": "945b959f1226820a791f14eb90a8a8a6",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.FilterNewsTests.filterNewsByCategoryOnly",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.FilterNewsTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "filterNewsByCategoryOnly"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.FilterNewsTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(1006)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "severity",
+            "value": "critical"
+        }
+    ]
+}
