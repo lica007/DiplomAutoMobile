@@ -59,11 +59,9 @@ class FilterNewsTests {
     fun filterByAllParametersActive() {
         val title = "Фильтр все параметры"
 
-        // 1. Создаем АКТИВНУЮ новость с точной датой
         newsSteps.createNewsWithExactDate(DataHelper.getCategoryAnnouncement(), title, "Описание", DataHelper.getDateWithOffset(0), DataHelper.getCurrentTime())
         controlPanelPage.waitForControlPanelScreen()
 
-        // 2. Применяем фильтр (Категория + Даты + ТОЛЬКО Активна)
         newsSteps.filterAdvancedControlPanel(DataHelper.getCategoryAnnouncement(), DataHelper.getDateWithOffset(0), DataHelper.getDateWithOffset(0), true, false)
         controlPanelPage.waitForControlPanelScreen()
 
@@ -111,7 +109,6 @@ class FilterNewsTests {
         controlPanelPage.checkEmptyListPlaceholderDisplayed()
     }
 
-    // Баг. TK-31. Диапазон дат: «От» позже «До»"
     @Test
     @Description("TK-31. Ошибка при неверном диапазоне дат")
     @Severity(SeverityLevel.CRITICAL)

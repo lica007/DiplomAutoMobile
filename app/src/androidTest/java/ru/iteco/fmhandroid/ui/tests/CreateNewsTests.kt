@@ -66,7 +66,6 @@ class CreateNewsTests {
         controlPanelPage.checkNewsDisplayed(title)
     }
 
-    //Баг: Ошибка при создании новости со статусом 'Не активна'. Тест-кейс TK-13
     @Test
     @Description("TK-13. Создание новости со статусом «Не активна»")
     @Severity(SeverityLevel.NORMAL)
